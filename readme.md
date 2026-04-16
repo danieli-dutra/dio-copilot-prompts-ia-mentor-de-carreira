@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>🔮 Previsões para o futuro tech de Dani Dutra</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -22,17 +22,17 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <p align="center">Junior</p>
+        <a href="https://github.com/danieli-dutra">
+        <img src="https://avatars.githubusercontent.com/u/269840907?v=4&size=64" alt="@danieli-dutra"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎓 Estudante de ADS.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟  UX/UI Designer | Product Design | User Experience
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👩‍💻 Focada em soluções digitais centradas no usuário
     </p>
       <a 
       href="https://www.linkedin.com/in/felipe-me/" 
