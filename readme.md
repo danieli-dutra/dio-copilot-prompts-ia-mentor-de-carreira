@@ -22,7 +22,7 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Junior</p>
+        <p align="center">Em Evolução</p>
         <a href="https://github.com/danieli-dutra">
         <img src="https://avatars.githubusercontent.com/u/269840907?v=4&size=64" alt="@danieli-dutra"><br>
       </a>
@@ -35,7 +35,7 @@
     👩‍💻 Focada em soluções digitais centradas no usuário
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/danieli-dutra/" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +43,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/ddutra_ads/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
@@ -61,7 +61,7 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Desafio proposto pela DIO utilizando dois AGENTS para "prever" e trilhar o melhor caminho TECH, baseado na minha experiência.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
