@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>🔮 Previsões para o futuro tech de Dani Dutra</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -22,20 +22,20 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <p align="center">Em Evolução</p>
+        <a href="https://github.com/danieli-dutra">
+        <img src="https://avatars.githubusercontent.com/u/269840907?v=4&size=64" alt="@danieli-dutra"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎓 Estudante de ADS.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟  UX/UI Designer | Product Design | User Experience
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👩‍💻 Focada em soluções digitais centradas no usuário
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/danieli-dutra/" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +43,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/ddutra_ads/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
@@ -61,7 +61,7 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Desafio proposto pela DIO utilizando dois AGENTS para "prever" e trilhar o melhor caminho TECH, baseado na minha experiência.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
