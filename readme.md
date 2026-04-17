@@ -59,52 +59,217 @@
 <br/>
 <br/>
 
-## 💻 Sobre o Projeto
+# # 🤖 IA Mentor de Carreira
+### Uma jornada orientada por Inteligência Artificial
 
-Desafio proposto pela DIO utilizando dois AGENTS para "prever" e trilhar o melhor caminho TECH, baseado na minha experiência.
+### Um experimento com IA durante minha transição de carreira
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+---
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## ✨ Contexto
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Estou em transição para a área de tecnologia.
 
-- _Exemplo_:
+Venho do UX/UI e estou no início da graduação em Análise e Desenvolvimento de Sistemas.  
+E como muita gente nesse momento, eu me vi com uma dúvida bem direta:
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+👉 Qual caminho seguir dentro de tech?
 
-- [Outros pré-requisitos, se aplicável]
+Ao invés de tentar decidir sem direção, usei um sistema de agentes de IA (proposto pela DIO) para entender melhor minhas possibilidades e organizar meus próximos passos.
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🧠 Como funciona
 
-- [Lista das habilidades principais a serem desenvolvidas]
+A estrutura utiliza dois agentes que trabalham em sequência:
 
-  - [Subhabilidades relacionadas, se aplicável]
+### 🎯 Agent 1 – Entrevistador
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Esse agente coleta informações sobre meu perfil:
+- interesses  
+- experiências  
+- disponibilidade  
+- objetivo profissional  
 
-## 🎯 Objetivos e Resultados Esperados
+Com base nisso, ele sugere possíveis caminhos de carreira.
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### 📈 Agent 2 – Planejador
 
-<!--START_SECTION:footer-->
+Depois, o segundo agente transforma essas informações em um plano prático:
 
-<br />
-<br />
+- visão do dia a dia  
+- mapa de skills  
+- roadmap de estudos  
+- projeto de portfólio  
+- preparação para entrevistas  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## 🧪 Meu perfil analisado
+
+- Interesse: criar produtos digitais  
+- Experiência: UX/UI + projetos práticos  
+- Estudando: ADS (início da graduação)  
+- Disponibilidade: 18h/semana  
+- Objetivo: transição de carreira  
+- Preferência: código  
+
+---
+
+## 🔮 O que a IA sugeriu
+
+Depois da análise, os agentes não só indicaram caminhos, mas explicaram o porquê de cada um deles fazer sentido dentro da minha trajetória.
+
+E essa foi a parte mais interessante.
+
+---
+
+🥇 **Desenvolvedor Web Full Stack – 18/20**
+
+💡 Por que combina com você:  
+Sua experiência em UX/UI e gosto por código se alinham perfeitamente ao desenvolvimento web. A vivência em projetos técnicos e gestão mostra disciplina e organização, enquanto o trabalho em eSports reforça liderança e visão de produto.
+
+---
+
+🥈 **Cientista de Dados – 18/20**
+
+💡 Por que combina com você:  
+Sua vivência com análise de dados e validação de informações, somada ao interesse em IA e dados, é um diferencial. Além disso, sua experiência com processos e organização mostra capacidade de lidar com informações e tomada de decisão.
+
+---
+
+🥉 **Desenvolvedor de Games – 15/20**
+
+💡 Por que combina com você:  
+Sua experiência em UX/UI e liderança em eSports se conecta diretamente ao desenvolvimento de games. Você entende tanto a experiência do usuário quanto a dinâmica de equipes, o que pode ser aplicado na criação de experiências interativas.
+
+---
+
+## 💭 O que fez sentido pra mim
+
+Lendo essas análises, ficou mais claro um padrão:
+
+todas as sugestões, de alguma forma, conectam com produto, experiência e construção.
+
+No fim, isso só reforçou algo que eu já vinha percebendo:
+👉 faz sentido começar por desenvolvimento web e evoluir a partir daí.
+
+---
+
+## 📅 O plano gerado (Agent 2)
+
+### 🧩 Visão do dia a dia
+
+- Criar interfaces responsivas (front-end)  
+- Desenvolver APIs e lógica (back-end)  
+- Integrar banco de dados  
+- Trabalhar com versionamento e documentação  
+- Testar e corrigir problemas  
+
+---
+
+### 🧠 Mapa de skills
+
+**Core:**
+- HTML, CSS, JavaScript  
+- Node.js e Express  
+- Bancos de dados (MySQL, MongoDB)  
+
+**Complementares:**
+- Noções de UX/UI  
+- Fundamentos de IA aplicada  
+
+**Ferramentas:**
+- React  
+- Git/GitHub  
+- Docker  
+
+---
+
+### 📅 Roadmap de 90 dias
+
+**Mês 1 — Fundamentos**
+- HTML, CSS e JavaScript  
+- Configuração de ambiente  
+- Introdução ao React  
+
+**Mês 2 — Prática**
+- Node.js e APIs  
+- Banco de dados  
+- Aplicação full stack (CRUD)  
+
+**Mês 3 — Consolidação**
+- Projeto completo  
+- Documentação  
+- Preparação para entrevistas  
+
+---
+
+### 🚀 Projeto sugerido
+
+**Plataforma de gerenciamento de tarefas com dashboard**
+
+- Front-end em React  
+- Back-end em Node.js  
+- Banco de dados integrado  
+- Visualização de dados  
+
+---
+
+### 💬 Preparação para entrevistas
+
+- Explicar projetos desenvolvidos  
+- Entender front-end vs back-end  
+- Demonstrar organização de código  
+- Falar sobre bancos de dados  
+- Mostrar como aprende novas tecnologias  
+
+---
+
+## 💡 O que eu tirei disso
+
+Mais do que as sugestões em si, esse projeto me ajudou a organizar melhor o caminho.
+
+Percebi que:
+- desenvolvimento é uma evolução natural do meu background em UX  
+- começar por web faz sentido  
+- ter um plano claro reduz muito a incerteza  
+
+---
+
+## ⚠️ Sobre o projeto
+
+A estrutura dos agentes foi proposta pela DIO em um desafio educacional.
+
+O que eu fiz aqui foi:
+- usar o modelo  
+- adaptar para minha realidade  
+- interpretar os resultados  
+- transformar isso em um direcionamento prático  
+
+---
+
+## 🎯 Próximos passos
+
+- fortalecer base em desenvolvimento web  
+- construir projetos reais  
+- evoluir meu portfólio  
+- explorar IA dentro desse contexto  
+
+---
+
+## 🔗 Contato
+
+👉 https://www.linkedin.com/in/danieli-dutra/
+
+---
+
+## ✨ Final
+
+Esse projeto foi uma forma de organizar meus próximos passos.
+
+Ainda estou no início da minha transição, porém agora com mais clareza do caminho que quero seguir.
+
+E, principalmente, com vontade de continuar construindo. 🧩🚀
