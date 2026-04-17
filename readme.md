@@ -107,7 +107,7 @@ Depois, o segundo agente transforma essas informações em um plano prático:
 
 ---
 
-## 🧪 Meu perfil analisado
+## 🔎 Meu perfil analisado
 
 - Interesse: criar produtos digitais  
 - Experiência: UX/UI + projetos práticos  
